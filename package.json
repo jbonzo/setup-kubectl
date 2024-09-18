@@ -1,10 +1,10 @@
 {
   "name": "setup-kubectl",
-  "version": "0.2.0",
-  "description": "Install kubectl and optionally krew and plugins.",
+  "version": "0.0.2",
+  "description": "A fork of: Install kubectl and optionally krew and plugins.",
   "main": "index.ts",
-  "repository": "git@github.com:marcofranssen/setup-kubectl.git",
-  "author": "Marco Franssen <marco.franssen@gmail.com>",
+  "repository": "git@github.com:jbonzo/setup-kubectl.git",
+  "author": "Ricky Barillas <8647805+jbonzo@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
     "build": "pnpm build-main",
